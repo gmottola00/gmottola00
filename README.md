@@ -31,9 +31,6 @@ Welcome to my GitHub profile! 🌟
 #### Backend Technologies
 [![Backend Technologies](https://skillicons.dev/icons?i=azure,django,flask,docker,fastapi&perline=3)](https://skillicons.dev)
 
-#### AI Framework
-![AI Framework](https://skillicons.dev/icons?i=milvus,angular,html)
-
 #### Database & Tools
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,supabase)
 
