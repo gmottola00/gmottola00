@@ -1,5 +1,3 @@
-<img width="1481" height="1072" alt="image" src="https://github.com/user-attachments/assets/b5a0d28a-b191-4d03-9ba7-12dbc12d24f4" />## Hi, I'm Gianmarco Mottola 👋
-
 <!--
 **gmottola00/gmottola00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,12 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--# Hi, I'm Gianmarco Mottola! 👋-->
+# Hi, I'm Gianmarco Mottola! 👋
 
 Welcome to my GitHub profile! 🌟
-
-## GitHub Stats
-![Gianmarco's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmottola00&show_icons=true&theme=cobalt)
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/gianmarco-mottola-368512196/)
