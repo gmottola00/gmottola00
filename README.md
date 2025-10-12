@@ -7,7 +7,7 @@ I build intelligent, production-ready applications that combine **machine learni
 
 ## 🧠 About Me
 
-- 💼 **AI Engineer at EY** — building enterprise-grade **RAG pipelines**, chatbots, and AI-driven analytics for intelligent document processing.  
+- 💼 **AI Engineer at EY** — building enterprise-grade **RAG pipelines** and AI-driven analytics for intelligent document processing.  
 - 💻 **AI Engineer & Full-Stack Developer at Sistemi Informativi (IBM Company)** — developed backend automation and **AI platforms with multi-agent RAG chatbots**.  
 - 🧩 Creator of **StudIA**, **Rachel**, and **Tickup**, full-stack AI projects integrating **LLMs**, **real-time analytics**, and **interactive user experiences**.  
 - 🎯 Passionate about **LangChain**, **LlamaIndex**, **Milvus**, and **Graph-based RAG architectures**.  
@@ -44,7 +44,7 @@ I build intelligent, production-ready applications that combine **machine learni
 ## 🔬 Featured Projects
 
 ### 🧠 Digital Tender Management (EY)
-AI platform for **intelligent document retrieval and tender analytics**.  
+AI platform for **intelligent document retrieval and tender analytics and full managment**.  
 > Stack: Flask · MongoDB · Atlas · LLamaIndex · OpenAI API · Docker · Kubernetes
 
 ---
@@ -54,7 +54,7 @@ Enterprise AI ecosystem integrating **multi-agent RAG chatbots**, **real-time an
 - 🗣️ Developed several **specialized chatbots** powered by RAG pipelines trained on internal documentation.  
 - 📊 Built an **interactive financial dashboard** with real-time **AI-driven summarization** and **sentiment analysis** of market news.  
 - 🧩 Created a **Knowledge Base Builder** platform to upload, index, and test content in real-time within the chatbot environment.  
-> Stack: Flask · LangChain · Milvus · HTML · CSS · Javascript
+> Stack: Flask · Milvus · HTML · CSS · Javascript
 
 ---
 
@@ -66,7 +66,7 @@ Full-stack AI study assistant that turns lecture slides into **summaries, flashc
 
 ### 🎮 Tickup
 Skill-based raffle app combining **Flutter UI**, **Python backend**, and **AI-driven functions**.  
-> Stack: Flutter · FastAPI · MongoDB
+> Stack: Flutter · FastAPI · Supabase · OpenAI API
 
 ---
 
