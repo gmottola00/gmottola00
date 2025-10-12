@@ -8,9 +8,9 @@ I build intelligent, production-ready applications that combine **machine learni
 ## 🧠 About Me
 
 - 💼 **AI Engineer at EY** — building enterprise-grade **RAG pipelines**, chatbots, and AI-driven analytics for intelligent document processing.  
-- 💻 Former **Software Engineer at Sistemi Informativi (IBM Company)** — developed backend automation and **AI platforms with multi-agent RAG chatbots**.  
-- 🧩 Creator of **StudIA**, **Rachel**, and **SkillWin**, full-stack AI projects integrating **LLMs**, **real-time analytics**, and **interactive user experiences**.  
-- 🎯 Passionate about **LangChain**, **LlamaIndex**, **Milvus**, **Ollama**, and **Graph-based RAG architectures**.  
+- 💻 **AI Engineer & Full-Stack Developer at Sistemi Informativi (IBM Company)** — developed backend automation and **AI platforms with multi-agent RAG chatbots**.  
+- 🧩 Creator of **StudIA**, **Rachel**, and **Tickup**, full-stack AI projects integrating **LLMs**, **real-time analytics**, and **interactive user experiences**.  
+- 🎯 Passionate about **LangChain**, **LlamaIndex**, **Milvus**, and **Graph-based RAG architectures**.  
 - 🧑‍🎓 **Computer Science student at Sapienza University (Rome)**, aiming for a **Master’s in Quantum Engineering at ETH Zürich**.
 
 ---
