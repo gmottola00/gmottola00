@@ -35,7 +35,7 @@
 - Entity linking & tender schema  
 - Multi-hop retrieval & reasoning  
 
-**Tech:** FastAPI · Milvus · Neo4j · Python · UV · LangChain · LlamaIndex
+**Tech:** FastAPI · Milvus · Neo4j · Python · UV ·
 
 ---
 
