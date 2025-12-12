@@ -6,9 +6,11 @@
 <h1 align="center">👋 Hi, I'm <strong>Gianmarco Mottola</strong></h1>
 
 <p align="center">
-AI Engineer · RAG Architect · Full-Stack Developer  
-<br/>
-Building intelligent systems that understand documents, reason over them, and deliver real business value.
+  <strong>AI Engineer · RAG & Knowledge Graph Architect · Solution Architect · Full-Stack Developer</strong>
+</p>
+
+<p align="center">
+  Crafting AI systems that extract knowledge, reason across documents, and power real decision-making.
 </p>
 
 ---
