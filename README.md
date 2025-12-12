@@ -1,7 +1,7 @@
-<!-- BANNER (opzionale) -->
+<!-- BANNER (opzionale) 
 <p align="center">
   <img src="https://github.com/gmottola00/.github/blob/main/profile/banner.png" width="100%" alt="Gianmarco Mottola Banner"/>
-</p>
+</p> -->
 
 <h1 align="center">👋 Hi, I'm <strong>Gianmarco Mottola</strong></h1>
 
