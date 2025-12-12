@@ -1,76 +1,117 @@
-# 👋 Hi, I'm Gianmarco Mottola
+<!-- BANNER (opzionale) -->
+<p align="center">
+  <img src="https://github.com/gmottola00/.github/blob/main/profile/banner.png" width="100%" alt="Gianmarco Mottola Banner"/>
+</p>
 
-🚀 **AI Engineer & Full-Stack Developer** specialized in **Retrieval-Augmented Generation (RAG)**, **Generative AI**, and **vector search systems**.  
-I build intelligent, production-ready applications that combine **machine learning**, **knowledge graphs**, and **scalable backend architectures**.
+<h1 align="center">👋 Hi, I'm <strong>Gianmarco Mottola</strong></h1>
+
+<p align="center">
+AI Engineer · RAG Architect · Full-Stack Developer  
+<br/>
+Building intelligent systems that understand documents, reason over them, and deliver real business value.
+</p>
 
 ---
 
 ## 🧠 About Me
 
-- 💼 **AI Engineer & Full-Stack Developer EY** — building enterprise-grade **RAG pipelines** and AI-driven analytics for intelligent document processing.  
-- 💻 **AI Engineer & Full-Stack Developer at Sistemi Informativi (IBM Company)** — developed backend automation and **AI platforms with multi-agent RAG chatbots**.  
-- 🧩 Creator of **Tender**, **StudIA**, and **Tickup**, full-stack AI projects integrating **LLMs**, **real-time analytics**, and **interactive user experiences**.  
-- 🎯 Passionate about **Building Intelligent app**, and tech like **Milvus**, and **Graph-based RAG architectures**.  
-- 🧑‍🎓 **Computer Science student at Sapienza University (Rome)**.
+- 🧩 **AI Engineer @ EY** — building enterprise-grade **RAG pipelines**, tender analytics, and AI tooling.  
+- 🤖 **AI Engineer @ Sistemi Informativi (IBM Company)** — creator of internal **multi-agent RAG assistants**.  
+- 🏗️ Creator of **Tender-RAG-Lab**, **StudIA**, and **Tickup**.  
+- 🎓 BSc Computer Science @ Sapienza University of Rome.
 
 ---
 
-## ⚙️ Tech Stack
+# 🔬 Featured Projects
 
-### 🧑‍💻 Programming Languages
-![Languages](https://skillicons.dev/icons?i=python,cpp,java,js,c)
+## 🏗️ Tender-RAG-Lab (2025)
+**My flagship open-source lab for advanced hybrid RAG research.**
 
-### 🧩 AI & Machine Learning
-![AI](https://skillicons.dev/icons?i=pytorch,tensorflow,azure)
-> LangChain • LlamaIndex • Hugging Face • Milvus • Faiss • OpenAI API • Ollama • Scikit-learn
+- Vector search (**Milvus**)  
+- Knowledge Graph RAG (**Neo4j**)  
+- Document structure extraction  
+- Entity linking & tender schema  
+- Multi-hop retrieval & reasoning  
 
-### ⚙️ Backend & APIs
-![Backend](https://skillicons.dev/icons?i=flask,fastapi,django,docker,gitlab,githubactions)
-> REST APIs • Microservices • CI/CD • MLOps (MLflow, W&B)
-
-### 💾 Databases & Cloud
-![DB](https://skillicons.dev/icons?i=mongodb,postgresql,supabase,azure,aws)
-> MongoDB Atlas • Milvus • Supabase • Azure • Kubernetes
-
-### 🎨 Frontend Technologies
-![Frontend](https://skillicons.dev/icons?i=flutter,angular,html,css,bootstrap)
-
-### 🧠 Dev Tools
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,windows)
-> Poetry • UV • Pytest • Makefile • Shell scripting
+**Tech:** FastAPI · Milvus · Neo4j · Python · UV · LangChain · LlamaIndex
 
 ---
 
-## 🔬 Featured Projects
+## 🧠 Digital Tender Management (EY)
+Enterprise AI platform for intelligent retrieval & tender analytics.
 
-### 🧠 Digital Tender Management (EY)
-AI platform for **intelligent document retrieval and tender analytics and full managment**.  
-> Stack: Flask · MongoDB · Atlas · LLamaIndex · OpenAI API · Docker · Kubernetes
+- Full ingestion → vectorization → retrieval pipeline  
+- LLM-based summarization and question-answering  
+- Large-scale architecture (Kubernetes + MongoDB Atlas)
 
----
-
-### 🤖 Rachel (Sistemi Informativi · IBM Company)
-Enterprise AI ecosystem integrating **multi-agent RAG chatbots**, **real-time analytics**, and **knowledge base management**.  
-- 🗣️ Developed several **specialized chatbots** powered by RAG pipelines trained on internal documentation.  
-- 📊 Built an **interactive financial dashboard** with real-time **AI-driven summarization** and **sentiment analysis** of market news.  
-- 🧩 Created a **Knowledge Base Builder** platform to upload, index, and test content in real-time within the chatbot environment.  
-> Stack: Flask · Milvus · HTML · CSS · Javascript
+**Tech:** Flask · MongoDB · LlamaIndex · OpenAI API · Docker · AKS
 
 ---
 
-### 🎓 StudIA
-Full-stack AI study assistant that turns lecture slides into **summaries, flashcards, and mind-maps**.  
-> Stack: FastAPI · Supabase · Angular · LlamaIndex · OpenAI API
+## 🤖 Rachel – Multi-Agent AI Ecosystem (IBM Company)
+Internal ecosystem for advanced document intelligence.
+
+- Multi-agent RAG chatbots  
+- Market news analysis + sentiment  
+- Knowledge Base Builder UI  
+
+**Tech:** Flask · Milvus · HTML/CSS/JS · Python
 
 ---
 
-### 🎮 Tickup
-Skill-based raffle app combining **Flutter UI**, **Python backend**, and **AI-driven functions**.  
-> Stack: Flutter · FastAPI · Supabase · OpenAI API
+## 🎓 StudIA – AI Study Assistant
+Transforms lecture slides into summaries, flashcards, mind-maps & Q&A.
+
+**Tech:** FastAPI · Supabase · Angular · LlamaIndex
 
 ---
 
-## 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/gianmarco-mottola-368512196/)  
-- 🧑‍💻 [GitHub](https://github.com/gmottola00)  
-- ✉️ **gianmarcomottola00@gmail.com**
+## 🎮 Tickup – Skill-Based Raffle App
+Flutter-based interactive raffle app with backend AI features.
+
+**Tech:** Flutter · FastAPI · Supabase · Python
+
+---
+
+# ⚙️ Tech Stack
+
+### 🧑‍💻 Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,c" height="40" />
+</p>
+
+### 🧠 AI / Machine Learning  
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,azure" height="40" />
+</p>
+RAG · LLMs · LangChain · LlamaIndex · Milvus · FAISS · HuggingFace · Vector DBs · Knowledge Graphs
+
+### 🔧 Backend & APIs  
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,django,docker,githubactions" height="40" />
+</p>
+
+### 💾 Databases & Cloud  
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,azure,aws,supabase" height="40" />
+</p>
+
+### 🎨 Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,angular,html,css" height="40" />
+</p>
+
+### 🛠️ Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="40" />
+</p>
+
+---
+
+# 🌐 Connect
+
+- 💼 LinkedIn — https://www.linkedin.com/in/gianmarco-mottola-368512196/  
+- 🧑‍💻 GitHub — https://github.com/gmottola00  
+- ✉️ Email — **gianmarcomottola00@gmail.com**
+
+---
