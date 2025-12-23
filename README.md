@@ -24,57 +24,6 @@
 
 ---
 
-# 🔬 Featured Projects
-
-## 🏗️ Tender-RAG-Lab (2025)
-**My flagship open-source lab for advanced hybrid RAG research.**
-
-- Vector search (**Milvus**)  
-- Knowledge Graph RAG (**Neo4j**)  
-- Document structure extraction  
-- Entity linking & tender schema  
-- Multi-hop retrieval & reasoning  
-
-**Tech:** FastAPI · Milvus · Neo4j · Python · UV ·
-
----
-
-## 🧠 Digital Tender Management (EY)
-Enterprise AI platform for intelligent retrieval & tender analytics.
-
-- Full ingestion → vectorization → retrieval pipeline  
-- LLM-based summarization and question-answering  
-- Large-scale architecture (Kubernetes + MongoDB Atlas)
-
-**Tech:** Flask · MongoDB · LlamaIndex · OpenAI API · Docker · AKS
-
----
-
-## 🤖 Rachel – Multi-Agent AI Ecosystem (IBM Company)
-Internal ecosystem for advanced document intelligence.
-
-- Multi-agent RAG chatbots  
-- Market news analysis + sentiment  
-- Knowledge Base Builder UI  
-
-**Tech:** Flask · Milvus · HTML/CSS/JS · Python
-
----
-
-## 🎓 StudIA – AI Study Assistant
-Transforms lecture slides into summaries, flashcards, mind-maps & Q&A.
-
-**Tech:** FastAPI · Supabase · Angular · LlamaIndex
-
----
-
-## 🎮 Tickup – Skill-Based Raffle App
-Flutter-based interactive raffle app with backend AI features.
-
-**Tech:** Flutter · FastAPI · Supabase · Python
-
----
-
 # ⚙️ Tech Stack
 
 ### 🧑‍💻 Languages  
